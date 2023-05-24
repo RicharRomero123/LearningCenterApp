@@ -1,4 +1,4 @@
-﻿namespace LearnignCenter.infraestructura.Models;
+﻿  namespace LearnignCenter.infraestructura.Models;
 
 public class Category
 {
